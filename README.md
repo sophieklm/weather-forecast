@@ -1,6 +1,6 @@
 # Weather
 
-Weather search app using React, Reducs and OpenWeatherMap weather API
+Weather search app using React, Redux and OpenWeatherMap weather API
 
 ### Getting Started
 
