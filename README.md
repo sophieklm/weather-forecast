@@ -1,6 +1,6 @@
 # Weather
 
-Weather search app using React, Redux and OpenWeatherMap weather API
+A simple city weather forecast app built using React, Redux, OpenWeatherMap, Google Maps and Sparklines
 
 ### Getting Started
 
